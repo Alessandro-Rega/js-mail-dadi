@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.divisore{
+    width: 100%;
+    margin: 50px;
+}
+
+.container{
+    margin: 20px;
+}
+
+.titolo{
+    margin: 10px;
+}
+
+.scritte{
+    margin: 5px 0;
+}
