@@ -27,3 +27,11 @@ body{
 .scritte{
     margin: 5px 0;
 }
+
+.btn{
+    background-color: lightgray;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
